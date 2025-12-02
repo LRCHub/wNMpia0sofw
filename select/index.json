@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "DRESSING ROOM",
+  "base_artist": "natori",
+  "createdAt": "2025-12-02T21:19:15.295998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Dressing Room",
+      "artist": "The Mothers Of Invention",
+      "has_synced": false,
+      "path": "select/01_The_Dressing_Room_The_Mothers_Of_Invention.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Dressing Room",
+      "artist": "Frank Zappa The Mothers of Invention",
+      "has_synced": false,
+      "path": "select/02_The_Dressing_Room_Frank_Zappa_The_Mothers_of_Invention.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spiders In the Dressing Room",
+      "artist": "Toy Dolls",
+      "has_synced": true,
+      "path": "select/03_Spiders_In_the_Dressing_Room_Toy_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Often - Live In The Dressing Room, Manchester, UK / 2000",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/04_Often_-_Live_In_The_Dressing_Room,_Manchester,_UK___2000_Robbie_Williams.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Leave It in the Dressing Room (Shake It Up)",
+      "artist": "Blue October",
+      "has_synced": false,
+      "path": "select/05_Leave_It_in_the_Dressing_Room_(Shake_It_Up)_Blue_October.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dressing Room",
+      "artist": "After School",
+      "has_synced": false,
+      "path": "select/06_Dressing_Room_After_School.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Dressing Room",
+      "artist": "Breathe Carolina",
+      "has_synced": true,
+      "path": "select/07_The_Dressing_Room_Breathe_Carolina.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sponge [Chicago Dressing Room]",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/08_Sponge_[Chicago_Dressing_Room]_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Dressing Room",
+      "artist": "Frank Zappa/The Mothers",
+      "has_synced": false,
+      "path": "select/09_The_Dressing_Room_Frank_Zappa_The_Mothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Dressing Room",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/10_The_Dressing_Room_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DRESSING ROOM (Prod. Mokyo)",
+      "artist": "pH-1",
+      "has_synced": true,
+      "path": "select/11_DRESSING_ROOM_(Prod._Mokyo)_pH-1.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DRESSING ROOM",
+      "artist": "pH-1",
+      "has_synced": true,
+      "path": "select/12_DRESSING_ROOM_pH-1.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spiders In the Dressing Room",
+      "artist": "The Toy Dolls",
+      "has_synced": true,
+      "path": "select/13_Spiders_In_the_Dressing_Room_The_Toy_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dressing Room",
+      "artist": "After School",
+      "has_synced": true,
+      "path": "select/14_Dressing_Room_After_School.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dressing Room",
+      "artist": "Glen Check",
+      "has_synced": true,
+      "path": "select/15_Dressing_Room_Glen_Check.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dressing Room (acoustic)",
+      "artist": "Glen Check",
+      "has_synced": true,
+      "path": "select/16_Dressing_Room_(acoustic)_Glen_Check.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Often (Live In the Dressing Room)",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/17_Often_(Live_In_the_Dressing_Room)_Robbie_Williams.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Leave It in the Dressing Room",
+      "artist": "Blue October",
+      "has_synced": false,
+      "path": "select/18_Leave_It_in_the_Dressing_Room_Blue_October.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DRESSING ROOM",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_DRESSING_ROOM_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DRESSING ROOM",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_02_DRESSING_ROOM_なとり.txt"
+    }
+  ]
+}
