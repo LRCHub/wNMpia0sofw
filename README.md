@@ -1,4 +1,4 @@
-# natori – DRESSING ROOM
+# なとり – DRESSING ROOM
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
